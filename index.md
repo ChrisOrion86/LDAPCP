@@ -1,5 +1,5 @@
 This claims provider connects SharePoint 2019 / 2016 / 2013 with Active Directory and LDAP servers to enhance people picker with a great search experience in federated authentication (typically ADFS).  
-![People picker with LDAPCP](https://cloud.githubusercontent.com/assets/8788631/25440961/3b8db40a-2aa1-11e7-9070-aee808950f38.PNG)
+![People picker with LDAPCP](https://raw.githubusercontent.com/Yvand/LDAPCP/gh-pages/assets/people-picker-Yvan.png)
 
 If you want to try and see LDAPCP in action, check [this template](https://azure.microsoft.com/en-us/resources/templates/sharepoint-adfs/) that deploys SharePoint in your Azure tenant, fully configured with ADFS and LDAPCP.
 
